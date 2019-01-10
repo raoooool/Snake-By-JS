@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+.map {
+  margin: 50px auto 10px auto;
+  width: 620px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+}
+.keyboard div {
+  text-align: center;
+}
+.keyboard div button {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  background-color: whitesmoke;
+  border: solid 1px gainsboro;
+}
+
+.under-pannel {
+  margin: auto;
+  width: 620px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.under-pannel button {
+  padding: 8px 15px;
+  background-color: white;
+  border: 0.5px solid gainsboro;
+}
+.under-pannel button:hover {
+  background-color: grey;
+  color: whitesmoke;
+}
+.under-pannel .checkedDifficult {
+  background-color: grey;
+  color: whitesmoke;
+}
+.under-pannel .title {
+  font-size: 32px;
+  border-radius: 10px;
+  padding: 5px 20px;
+  background-color: grey;
+  color: whitesmoke;
+  margin-top: 5px;
+}
+
+/*# sourceMappingURL=index.css.map */
