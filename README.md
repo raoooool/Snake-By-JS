@@ -11,7 +11,7 @@
 ## BUG
 - FireFox的event对象问题导致游戏不能正常运行
 ## 使用方法
-打开[https://raool.top/snake](https://raool.top/snake)即可(**不支持FireFox**)
+打开[https://panjunwen.xyz/snake](https://panjunwen.xyz/snake)即可(**不支持FireFox**)
 
 ---
 **Designed By PanJW 2019.1.8**
